@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Najm Choueiry</h1>
 <h3 align="center">A motive-driven developer !</h3>
 
-- 📫 How to reach me **najmchoueiry1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/najm-c-7a678b217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/najm-c-7a678b217/" height="30" width="40" /></a>
